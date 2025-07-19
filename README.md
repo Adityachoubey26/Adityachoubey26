@@ -44,7 +44,7 @@
 ## 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-c-366b90305"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/aditya_choubey26/?hl=en"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
