@@ -35,6 +35,9 @@
 </p>
 
 ---
+ 🐍 [snake gif](https://github.com/Adityachoubey26/Adityachoubey26/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 📫 Connect With Me  
 <p align="center">
