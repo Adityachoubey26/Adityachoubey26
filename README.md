@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://github.com/Adityachoubey26/Adityachoubey26/blob/main/linkedin%20banner.png?raw=true" alt="Aditya Choubey Banner" />
+  <img src="https://github.com/Adityachoubey26/Adityachoubey26/blob/main/linkdin%20banner.png?raw=true" />
 </p>
 
 <!-- Intro -->
