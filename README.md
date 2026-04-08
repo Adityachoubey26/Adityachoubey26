@@ -76,7 +76,6 @@ I believe in real skills over certificates, consistency over motivation, and pro
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Adityachoubey26&icon=5&color=12"/>
+<img src="https://komarev.com/ghpvc/?username=Adityachoubey26&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
-
 ---
