@@ -1,6 +1,3 @@
-<!-- 🔥 3D WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Aditya%20Choubey&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/Adityachoubey26/Adityachoubey26/blob/main/linkdin%20banner.png?raw=true" />
@@ -83,6 +80,3 @@ I believe in real skills over certificates, consistency over motivation, and pro
 </p>
 
 ---
-
-<!-- 🔥 3D WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
