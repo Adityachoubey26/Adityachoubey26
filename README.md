@@ -56,13 +56,15 @@ I believe in real skills over certificates, consistency over motivation, and pro
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachoubey26&theme=react-dark"/>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Adityachoubey26&theme=tokyonight&show_icons=true"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Adityachoubey26&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachoubey26&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityachoubey26&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img src="https://streak-stats.demolab.com?user=Adityachoubey26&theme=tokyonight&cache_seconds=86400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachoubey26&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 ---
