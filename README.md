@@ -67,15 +67,10 @@ I believe in real skills over certificates, consistency over motivation, and pro
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Adityachoubey26/Adityachoubey26/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Adityachoubey26&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
+
 ---
