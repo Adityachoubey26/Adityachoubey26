@@ -372,3 +372,19 @@ A growing community built to help students and developers learn, collaborate, an
 </svg>
 </div>
 
+<h2 align="center">📊 GITHUB PROFILE STATS</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityachoubey26&theme=github_dark" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityachoubey26&theme=github_dark" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adityachoubey26&theme=github_dark&utcOffset=5.5" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityachoubey26&theme=github_dark" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityachoubey26&theme=github_dark" width="49%"/>
+</p>
+
