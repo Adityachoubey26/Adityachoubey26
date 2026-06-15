@@ -1,78 +1,279 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Adityachoubey26/Adityachoubey26/blob/main/linkdin%20banner.png?raw=true" />
-</p>
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Graphic+Designer;Aspiring+Full+Stack+Developer;Building+things+from+scratch🚀"/>
-</p>
+<img src="https://github.com/Adityachoubey26/Adityachoubey26/blob/main/linkdin%20banner.png?raw=true" width="100%" alt="Aditya Choubey Banner"/>
 
----
+<br/>
 
-# 💫 About Me:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+There%2C+I'm+Aditya+Choubey;Full+Stack+Developer+%7C+Graphic+Designer;Founder+%40+GraphEra+%26+TechEra;Building+Impactful+Digital+Products" alt="Typing SVG" />
 
-👋 Hi, I'm Aditya  
+<br/>
 
-I'm a 2nd-year B.Tech IT student who loves building things from scratch and learning by doing.  
+![Profile Views](https://komarev.com/ghpvc/?username=Adityachoubey26&color=ff0000&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Adityachoubey26?style=for-the-badge&color=red&label=FOLLOWERS)
 
-Currently, I'm working as a graphic designer and actively transitioning towards full-stack development. I have hands-on experience with HTML, CSS, Python, and C, and I'm consistently improving my problem-solving and development skills.  
+</div>
 
-I'm also the founder of GraphEra, a creative design agency, and I run TechEra — a student-led tech community focused on hackathons, events, and collaboration.  
-
-I believe in real skills over certificates, consistency over motivation, and progress over perfection.  
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/grid.gif" width="100%">
 
 ---
 
-## 💬 My Vision (3D Card)
+<h2 align="center">🧬 ABOUT ME</h2>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=140&section=header&text=I%20don%27t%20just%20learn%20tech,%20I%20build%20with%20it%20and%20create%20impact.&fontSize=18&fontColor=ffffff"/>
-</p>
+<table align="center">
+<tr>
+<td>
 
----
+```yaml
+Name:      Aditya Choubey
+Role:      B.Tech IT Student @ ADGIPS (GGSIPU)
+Status:    Aspiring Full Stack Developer & Graphic Designer
+Founder:   GraphEra | TechEra Community
+Mission:   Crafting impactful digital products & growing dev communities
+Location:  India 🇮🇳
+```
 
-## 🌐 Socials:
+</td>
+</tr>
+</table>
 
-<p align="center">
-<a href="https://instagram.com/aditya_choubey26"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/aditya-c-366b90305"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/ChoubeyIx"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white"/></a>
-<a href="mailto:aditya.choubey.soe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
 
----
+🎯 **Currently Focused On:** Mastering Full Stack Development & Building Real-World Products  
+🌱 **Currently Learning:** Advanced React, Backend Architecture & System Design  
+🤝 **Open To:** Software Internships, Open Source Collaborations & Freelance Design Work  
+⚡ **Fun Fact:** I design as much as I code — pixels and code are my playground!
 
-## 🛠️ Tech Stack (3D Style)
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,python,react,mongodb,mysql,git,github,vscode&perline=6"/>
-</p>
-
----
-
-## 📊 3D Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachoubey26&theme=react-dark"/>
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityachoubey26&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-  <img src="https://streak-stats.demolab.com?user=Adityachoubey26&theme=tokyonight&cache_seconds=86400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachoubey26&layout=compact&theme=tokyonight&cache_seconds=86400"/>
-</p>
+</div>
 
 ---
 
-## 👀 Profile Views
+<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Adityachoubey26&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+<h2 align="center">🧠 MY ECOSYSTEM — MINDMAP</h2>
+
+```mermaid
+mindmap
+  root((🚀 Aditya Choubey))
+    💻 Development
+      HTML / CSS / JS
+      React.js
+      Java
+      Python
+      MongoDB & MySQL
+      Git & GitHub
+    🎨 Design
+      Figma
+      UI/UX Design
+      Brand Identity
+      GraphEra Projects
+    🌐 Community
+      TechEra Community
+      Networking
+      Mentorship
+      Knowledge Sharing
+    🚀 Startup
+      GraphEra - Founder
+      TechEra - Founder
+      Product Building
+      Brand Growth
+    🛠️ Projects
+      RescueIQ
+      Personal Portfolio
+      GraphEra Platform
+    🎯 Future Goals
+      Software Internship
+      Full Stack Mastery
+      Open Source Contributions
+      Impactful Products
+```
+
+<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
 
 ---
+
+<h2 align="center">⚙️ TECH ARSENAL</h2>
+
+<div align="center">
+
+### 🖥️ Languages & Core
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
+
+---
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🆘 RescueIQ
+**Emergency Response Platform**
+
+A smart platform built to streamline and accelerate emergency response coordination — connecting people in crisis with the right help, faster.
+
+`React` `JavaScript` `Real-Time Systems`
+
+[![Repo](https://img.shields.io/badge/View_Repository-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amritas851203/RescuelQ)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+**Interactive Developer Portfolio**
+
+A sleek, modern portfolio showcasing my projects, design work, and journey as a developer — built with performance and aesthetics in mind.
+
+`HTML` `CSS` `JavaScript`
+
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 GraphEra
+**Design & Creative Tech Brand**
+
+The flagship platform of GraphEra — blending graphic design, branding, and tech to deliver creative digital solutions for individuals and businesses.
+
+`Design` `Branding` `Creative Tech`
+
+![Founder](https://img.shields.io/badge/Founded_By-Aditya-FF0000?style=for-the-badge)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 TechEra Community
+**Tech Learning & Networking Hub**
+
+A growing community built to help students and developers learn, collaborate, and grow together through shared knowledge and real-world projects.
+
+`Community` `Mentorship` `Growth`
+
+![Founder](https://img.shields.io/badge/Founded_By-Aditya-FF0000?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
+
+---
+
+<h2 align="center">🏆 ACHIEVEMENTS & MILESTONES</h2>
+
+<div align="center">
+
+| 🏅 Achievement | 📌 Description |
+|:---|:---|
+| 🚀 **Founder — GraphEra** | Built a design-focused creative tech brand from the ground up |
+| 🌐 **Founder — TechEra** | Created a thriving tech community for learning & collaboration |
+| 💡 **Hackathon Participant** | Collaborated under pressure to build real-world solutions |
+| 🎨 **Graphic Designer** | Crafted brand identities, UI designs & visual content |
+| 🤝 **Community Builder** | Mentored & connected aspiring developers and designers |
+| 🏔️ **Kedarkantha Trek** | Conquered the Himalayan trail — discipline beyond the desk |
+
+</div>
+
+<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
+
+---
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adityachoubey26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachoubey26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityachoubey26&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="60%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachoubey26&theme=redical&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" width="90%" />
+
+</div>
+
+<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
+
+---
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake animation" />
+
+</div>
+
+> ⚙️ *Snake animation auto-generates via GitHub Actions — workflow included below.*
+
+<details>
+<summary>📜 <b>Click to view Snake Workflow YAML</b></summary>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Adityachoubey26
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
+
+---
+
+<h2 align="center">🎯 CURRENT GOALS</h2>
+
+<div align="center">
