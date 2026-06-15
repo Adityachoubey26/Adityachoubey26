@@ -95,41 +95,9 @@ Location:  India 🇮🇳
 <sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
 </h2>
 
-```mermaid
-mindmap
-  root((🚀 Aditya Choubey))
-    💻 Development
-      HTML / CSS / JS
-      React.js
-      Java
-      Python
-      MongoDB & MySQL
-      Git & GitHub
-    🎨 Design
-      Figma
-      UI/UX Design
-      Brand Identity
-      GraphEra Projects
-    🌐 Community
-      TechEra Community
-      Networking
-      Mentorship
-      Knowledge Sharing
-    🚀 Startup
-      GraphEra - Founder
-      TechEra - Founder
-      Product Building
-      Brand Growth
-    🛠️ Projects
-      RescueIQ
-      Personal Portfolio
-      GraphEra Platform
-    🎯 Future Goals
-      Software Internship
-      Full Stack Mastery
-      Open Source Contributions
-      Impactful Products
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/main/ecosystem-flowchart.svg" width="100%" alt="Aditya Ecosystem Flowchart"/>
+</div>
 
 <br/>
 
