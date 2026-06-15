@@ -380,74 +380,40 @@ A growing community built to help students and developers learn, collaborate, an
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachoubey26&theme=react-dark" width="100%"/>
 
 </div>
-
-<details>
-<summary>📜 <b>Click to view Snake Workflow YAML</b></summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Adityachoubey26
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <br/>
 
 <div align="center">
-<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g8" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0D0000"/>
-      <stop offset="50%" stop-color="#FF0000"/>
-      <stop offset="100%" stop-color="#0D0000"/>
-    </linearGradient>
-    <filter id="glow8" x="-20%" y="-300%" width="140%" height="700%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <rect width="1000" height="6" rx="3" fill="url(#g8)" filter="url(#glow8)"/>
-</svg>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&customColorList=0,8,12,20"/>
+
 </div>
 
-<h2 align="center">
-<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
-&nbsp; CURRENT GOALS &nbsp;
-<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
-</h2>
+<h2 align="center">🎯 CURRENT GOALS</h2>
 
 <div align="center">
+  ```text
+GRAPHIC DESIGNER
+        ↓
+FRONTEND DEVELOPER
+        ↓
+FULL STACK DEVELOPER
+        ↓
+SOFTWARE ENGINEER
+        ↓
+FOUNDER & BUILDER
+```
+<div align="center">
+
+☐ Secure a Software Development Internship <br>
+☐ Scale TechEra Community <br>
+☐ Grow GraphEra Brand <br>
+☐ Master Full Stack Development <br>
+☐ Strengthen DSA & Problem Solving <br>
+☐ Contribute to Open Source <br>
+☐ Scale RescueIQ
+
+</div>
