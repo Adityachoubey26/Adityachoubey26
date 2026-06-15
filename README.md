@@ -13,11 +13,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/grid.gif" width="100%">
-
----
-
-<h2 align="center">🧬 ABOUT ME</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=edge&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=header&text=ABOUT%20ME&fontColor=FFFFFF&fontSize=40&fontAlignY=55&animation=fadeIn"/>
 
 <table align="center">
 <tr>
@@ -45,11 +41,7 @@ Location:  India 🇮🇳
 
 </div>
 
----
-
-<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
-
-<h2 align="center">🧠 MY ECOSYSTEM — MINDMAP</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=edge&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=header&text=MY%20ECOSYSTEM&fontColor=FFFFFF&fontSize=40&fontAlignY=55&animation=fadeIn"/>
 
 ```mermaid
 mindmap
@@ -87,11 +79,7 @@ mindmap
       Impactful Products
 ```
 
-<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
-
----
-
-<h2 align="center">⚙️ TECH ARSENAL</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=edge&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=header&text=TECH%20ARSENAL&fontColor=FFFFFF&fontSize=40&fontAlignY=55&animation=fadeIn"/>
 
 <div align="center">
 
@@ -117,11 +105,7 @@ mindmap
 
 </div>
 
-<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
-
----
-
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=edge&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=header&text=FEATURED%20PROJECTS&fontColor=FFFFFF&fontSize=40&fontAlignY=55&animation=fadeIn"/>
 
 <table align="center" width="100%">
 <tr>
@@ -178,11 +162,7 @@ A growing community built to help students and developers learn, collaborate, an
 </tr>
 </table>
 
-<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
-
----
-
-<h2 align="center">🏆 ACHIEVEMENTS & MILESTONES</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=edge&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=header&text=ACHIEVEMENTS&fontColor=FFFFFF&fontSize=40&fontAlignY=55&animation=fadeIn"/>
 
 <div align="center">
 
@@ -197,11 +177,7 @@ A growing community built to help students and developers learn, collaborate, an
 
 </div>
 
-<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
-
----
-
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=edge&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=header&text=GITHUB%20ANALYTICS&fontColor=FFFFFF&fontSize=40&fontAlignY=55&animation=fadeIn"/>
 
 <div align="center">
 
@@ -218,19 +194,13 @@ A growing community built to help students and developers learn, collaborate, an
 
 </div>
 
-<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
-
----
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=edge&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=header&text=CONTRIBUTION%20SNAKE&fontColor=FFFFFF&fontSize=40&fontAlignY=55&animation=fadeIn"/>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake animation" />
 
 </div>
-
-> ⚙️ *Snake animation auto-generates via GitHub Actions — workflow included below.*
 
 <details>
 <summary>📜 <b>Click to view Snake Workflow YAML</b></summary>
@@ -270,10 +240,6 @@ jobs:
 
 </details>
 
-<h2 align="center">🔴 ─────────────────────────────────────── 🔴</h2>
-
----
-
-<h2 align="center">🎯 CURRENT GOALS</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=edge&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=header&text=CURRENT%20GOALS&fontColor=FFFFFF&fontSize=40&fontAlignY=55&animation=fadeIn"/>
 
 <div align="center">
