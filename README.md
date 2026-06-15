@@ -392,32 +392,3 @@ A growing community built to help students and developers learn, collaborate, an
 
 </div>
 
-<h2 align="center">🎯 CURRENT GOALS</h2>
-
-<div align="center">
-
-<h3>🚀 Developer Journey</h3>
-
-Graphic Designer<br>
-⬇️<br>
-Frontend Developer<br>
-⬇️<br>
-Full Stack Developer<br>
-⬇️<br>
-Software Engineer<br>
-⬇️<br>
-Founder & Builder
-
-</div>
-
-<div align="center">
-
-🚀 Secure a Software Development Internship <br>
-🌐 Scale TechEra Community <br>
-🎨 Grow GraphEra Brand <br>
-💻 Master Full Stack Development <br>
-📚 Strengthen DSA & Problem Solving <br>
-⭐ Contribute to Open Source <br>
-🚑 Scale RescueIQ
-
-</div>
