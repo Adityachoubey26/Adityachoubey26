@@ -372,23 +372,3 @@ A growing community built to help students and developers learn, collaborate, an
 </svg>
 </div>
 
-<h2 align="center">
-<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
-&nbsp; CONTRIBUTION SNAKE &nbsp;
-<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
-</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachoubey26&theme=react-dark" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&customColorList=0,8,12,20"/>
-
-</div>
-
