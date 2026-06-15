@@ -1,111 +1,103 @@
-<a name="top"></a>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=280&section=header&text=ADITYA%20CHOUBEY&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Graphic%20Designer%20%7C%20Founder&descAlignY=58&descSize=20"/>
+<img src="https://github.com/Adityachoubey26/Adityachoubey26/blob/main/linkdin%20banner.png?raw=true" width="100%" alt="Aditya Choubey Banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=900&color=FF1A1A&center=true&vCenter=true&width=750&height=50&lines=%3E+Initializing+System...;%3E+Welcome+to+Aditya's+Core+Network;%3E+B.Tech+IT+Student+%40+ADGIPS+(GGSIPU);%3E+Founder+%E2%80%94+GraphEra+%26+TechEra;%3E+Status%3A+Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+There%2C+I'm+Aditya+Choubey;Full+Stack+Developer+%7C+Graphic+Designer;Founder+%40+GraphEra+%26+TechEra;Building+Impactful+Digital+Products" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF0000?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/CORE-FULL_STACK_DEV-FF0000?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MODE-RECRUITER_READY-FF0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=Adityachoubey26&color=ff0000&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Adityachoubey26&label=FOLLOWERS&query=followers&color=FF0000&style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0000,100:000000&height=4&width=1000"/>
-</p>
-
-<!-- ================= SECTION 01 — IDENTITY ================= -->
-
-<table width="100%">
-<tr><td align="center">
-
-</td></tr>
-</table>
+<br/>
 
 <div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow1" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g1)" filter="url(#glow1)"/>
+</svg>
+</div>
 
-<table>
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; ABOUT ME &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
+<table align="center">
 <tr>
-<td width="60%" valign="top">
-
-### 🧬 IDENTITY MATRIX
+<td>
 
 ```yaml
-> NAME       : Aditya Choubey
-> ROLE       : B.Tech IT Student (ADGIPS, GGSIPU)
-> TRACK      : Full Stack Development (MERN-focused)
-> CREATIVE   : Graphic Designer / Brand Builder
-> VENTURE_01 : Founder @ GraphEra
-> VENTURE_02 : Founder @ TechEra
-> LOCATION   : India 🇮🇳
-> STATUS     : [ ACTIVELY SEEKING INTERNSHIP ]
+Name:      Aditya Choubey
+Role:      B.Tech IT Student @ ADGIPS (GGSIPU)
+Status:    Aspiring Full Stack Developer & Graphic Designer
+Founder:   GraphEra | TechEra Community
+Mission:   Crafting impactful digital products & growing dev communities
+Location:  India 🇮🇳
 ```
-
-> 💡 *"I don't just write code — I architect digital experiences and build the communities that grow around them."*
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adityachoubey26&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&width=1000&color=FF0000&text=%E2%97%86%20%E2%97%86%20%E2%97%86&fontSize=22&fontColor=FF0000&animation=twinkling"/>
-</p>
-
-<!-- ================= SECTION 02 — DEVELOPER JOURNEY ================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0000,100:FF0000&height=110&section=header&text=%E2%9A%A1%20DEVELOPER%20JOURNEY%20%E2%9A%A1&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45"/>
+🎯 **Currently Focused On:** Mastering Full Stack Development & Building Real-World Products  
+🌱 **Currently Learning:** Advanced React, Backend Architecture & System Design  
+🤝 **Open To:** Software Internships, Open Source Collaborations & Freelance Design Work  
+⚡ **Fun Fact:** I design as much as I code — pixels and code are my playground!
 
 </div>
 
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#FF0000','primaryTextColor':'#fff','primaryBorderColor':'#FF0000','lineColor':'#FF0000','secondaryColor':'#1a0000','tertiaryColor':'#000000'}}}%%
-timeline
-    title Aditya's Evolution Timeline
-    Foundation : Started B.Tech IT at ADGIPS (GGSIPU)
-               : Learned HTML, CSS, JavaScript
-    Creative Spark : Began Graphic Design journey
-                   : Founded GraphEra
-    Community Building : Founded TechEra Community
-                        : Started mentoring peers
-    Full Stack Era : Learned React, Java, Python
-                   : Worked with MongoDB & MySQL
-    Project Phase : Built RescueIQ
-                  : Built Personal Portfolio
-    Future Horizon : Targeting Software Internship
-                   : Open Source Contributions
-```
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:660000,50:FF0000,75:660000,100:000000&height=3&width=1000"/>
-</p>
-
-<!-- ================= SECTION 03 — ECOSYSTEM ================= -->
+<br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0000,100:FF0000&height=110&section=header&text=%F0%9F%9A%80%20THE%20ADITYA%20ECOSYSTEM&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45"/>
-
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow2" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g2)" filter="url(#glow2)"/>
+</svg>
 </div>
 
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; MY ECOSYSTEM &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1a0000','primaryTextColor':'#fff','primaryBorderColor':'#FF0000','lineColor':'#FF0000','tertiaryColor':'#0d0d0d'}}}%%
 mindmap
-  root((🧠 ADITYA<br/>CHOUBEY))
+  root((🚀 Aditya Choubey))
     💻 Development
       HTML / CSS / JS
       React.js
@@ -115,151 +107,347 @@ mindmap
       Git & GitHub
     🎨 Design
       Figma
-      UI / UX Systems
+      UI/UX Design
       Brand Identity
-      GraphEra Studio
+      GraphEra Projects
     🌐 Community
-      TechEra Network
+      TechEra Community
+      Networking
       Mentorship
-      Knowledge Drops
-      Collaboration Hubs
+      Knowledge Sharing
     🚀 Startup
-      GraphEra — Founder
-      TechEra — Founder
-      Product Strategy
-      Brand Scaling
+      GraphEra - Founder
+      TechEra - Founder
+      Product Building
+      Brand Growth
     🛠️ Projects
       RescueIQ
-      Portfolio Website
+      Personal Portfolio
       GraphEra Platform
     🎯 Future Goals
       Software Internship
       Full Stack Mastery
-      Open Source Impact
-      Product Building
+      Open Source Contributions
+      Impactful Products
 ```
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&width=1000&color=FF0000&text=%E2%9C%A6%20%E2%9C%A6%20%E2%9C%A6%20%E2%9C%A6%20%E2%9C%A6&fontSize=20&fontColor=FF0000&animation=twinkling"/>
-</p>
+<br/>
 
-<!-- ================= SECTION 04 — FEATURED PROJECTS ================= -->
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow3" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g3)" filter="url(#glow3)"/>
+</svg>
+</div>
+
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; TECH ARSENAL &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0000,100:FF0000&height=110&section=header&text=%F0%9F%93%82%20FEATURED%20PROJECTS&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45"/>
+### 🖥️ Languages & Core
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-<table width="100%">
+<br/>
+
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow4" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g4)" filter="url(#glow4)"/>
+</svg>
+</div>
+
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; FEATURED PROJECTS &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<table width="100%" style="border:1px solid #FF0000;">
-<tr><td>
+### 🆘 RescueIQ
+**Emergency Response Platform**
 
-```diff
-+ PROJECT_01 :: RESCUEIQ
-```
+A smart platform built to streamline and accelerate emergency response coordination — connecting people in crisis with the right help, faster.
 
-**🆘 Emergency Response Platform**
+`React` `JavaScript` `Real-Time Systems`
 
-A real-time coordination system designed to connect people in crisis with rapid emergency assistance — built for speed, clarity, and impact under pressure.
-
-`React` `JavaScript` `Real-Time Architecture`
-
-[![Repo](https://img.shields.io/badge/ACCESS_REPOSITORY-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Amritas851203/RescuelQ)
-
-</td></tr>
-</table>
+[![Repo](https://img.shields.io/badge/View_Repository-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amritas851203/RescuelQ)
 
 </td>
 <td width="50%" valign="top">
 
-<table width="100%" style="border:1px solid #FF0000;">
-<tr><td>
+### 🌐 Personal Portfolio
+**Interactive Developer Portfolio**
 
-```diff
-+ PROJECT_02 :: PORTFOLIO WEBSITE
-```
-
-**🌐 Personal Developer Portfolio**
-
-A sleek, dark-themed personal site engineered to showcase projects, design work, and the journey of a developer-designer hybrid.
+A sleek, modern portfolio showcasing my projects, design work, and journey as a developer — built with performance and aesthetics in mind.
 
 `HTML` `CSS` `JavaScript`
 
-![Status](https://img.shields.io/badge/STATUS-LIVE-FF0000?style=for-the-badge&labelColor=000000)
-
-</td></tr>
-</table>
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<table width="100%" style="border:1px solid #FF0000;">
-<tr><td>
+### 🎨 GraphEra
+**Design & Creative Tech Brand**
 
-```diff
-+ PROJECT_03 :: GRAPHERA
-```
+The flagship platform of GraphEra — blending graphic design, branding, and tech to deliver creative digital solutions for individuals and businesses.
 
-**🎨 Creative Tech Brand**
+`Design` `Branding` `Creative Tech`
 
-The flagship product of GraphEra — a fusion of design systems, branding strategy, and technology delivering creative solutions to real clients.
-
-`Design Systems` `Branding` `Creative Tech`
-
-![Founder](https://img.shields.io/badge/FOUNDED_BY-ADITYA-FF0000?style=for-the-badge&labelColor=000000)
-
-</td></tr>
-</table>
+![Founder](https://img.shields.io/badge/Founded_By-Aditya-FF0000?style=for-the-badge)
 
 </td>
 <td width="50%" valign="top">
 
-<table width="100%" style="border:1px solid #FF0000;">
-<tr><td>
+### 🌱 TechEra Community
+**Tech Learning & Networking Hub**
 
-```diff
-+ PROJECT_04 :: NEXT BUILD
-```
+A growing community built to help students and developers learn, collaborate, and grow together through shared knowledge and real-world projects.
 
-**🛠️ Open Source / Internship Project**
+`Community` `Mentorship` `Growth`
 
-Slot reserved for the next milestone — a production-grade full stack build, currently in active development as part of an ongoing internship track.
-
-`MERN Stack` `TypeScript` `WebSockets`
-
-![Building](https://img.shields.io/badge/STATUS-IN_PROGRESS-FF0000?style=for-the-badge&labelColor=000000)
-
-</td></tr>
-</table>
+![Founder](https://img.shields.io/badge/Founded_By-Aditya-FF0000?style=for-the-badge)
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:660000,50:FF0000,75:660000,100:000000&height=3&width=1000"/>
-</p>
+<br/>
 
-<!-- ================= SECTION 05 — FOUNDER SECTION ================= -->
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow5" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g5)" filter="url(#glow5)"/>
+</svg>
+</div>
+
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; ACHIEVEMENTS &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0000,100:FF0000&height=110&section=header&text=%F0%9F%91%91%20FOUNDER%20PROTOCOL&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45"/>
+| 🏅 Achievement | 📌 Description |
+|:---|:---|
+| 🚀 **Founder — GraphEra** | Built a design-focused creative tech brand from the ground up |
+| 🌐 **Founder — TechEra** | Created a thriving tech community for learning & collaboration |
+| 💡 **Hackathon Participant** | Collaborated under pressure to build real-world solutions |
+| 🎨 **Graphic Designer** | Crafted brand identities, UI designs & visual content |
+| 🤝 **Community Builder** | Mentored & connected aspiring developers and designers |
+| 🏔️ **Kedarkantha Trek** | Conquered the Himalayan trail — discipline beyond the desk |
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
+<br/>
 
-<table width="100%" style="border:2px solid #FF0000;">
-<tr><td align="center">
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow6" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g6)" filter="url(#glow6)"/>
+</svg>
+</div>
 
-### 🎨 GRAPHERA
-**Design & Creative Technology Brand**
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; GITHUB ANALYTICS &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adityachoubey26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachoubey26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityachoubey26&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="60%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachoubey26&theme=redical&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" width="90%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g7" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow7" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g7)" filter="url(#glow7)"/>
+</svg>
+</div>
+
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; CONTRIBUTION SNAKE &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake animation" />
+
+</div>
+
+<details>
+<summary>📜 <b>Click to view Snake Workflow YAML</b></summary>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Adityachoubey26
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<br/>
+
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g8" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow8" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g8)" filter="url(#glow8)"/>
+</svg>
+</div>
+
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; CURRENT GOALS &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
+<div align="center">
