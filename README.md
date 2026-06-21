@@ -91,12 +91,20 @@ Location:  India 🇮🇳
 
 <h2 align="center">
 <sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
-&nbsp; MY ECOSYSTEM &nbsp;
+&nbsp; CURRENT FOCUS &nbsp;
 <sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
 </h2>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/main/ecosystem-flowchart.svg" width="100%" alt="Aditya Ecosystem Flowchart"/>
+
+<img src="https://img.shields.io/badge/🌱_Building-TechEra_Community-FF0000?style=for-the-badge&labelColor=0D0000"/>
+<img src="https://img.shields.io/badge/⚡_Learning-MERN_Stack-FF0000?style=for-the-badge&labelColor=0D0000"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🎯_Preparing_For-Software_Internships-FF0000?style=for-the-badge&labelColor=0D0000"/>
+<img src="https://img.shields.io/badge/🚀_Building-Real_World_Projects-FF0000?style=for-the-badge&labelColor=0D0000"/>
+
 </div>
 
 <br/>
@@ -118,6 +126,38 @@ Location:  India 🇮🇳
     </filter>
   </defs>
   <rect width="1000" height="6" rx="3" fill="url(#g3)" filter="url(#glow3)"/>
+</svg>
+</div>
+
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; MY ECOSYSTEM &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/main/ecosystem-flowchart.svg" width="100%" alt="Aditya Ecosystem Flowchart"/>
+</div>
+
+<br/>
+
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow4" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g4)" filter="url(#glow4)"/>
 </svg>
 </div>
 
@@ -149,6 +189,12 @@ Location:  India 🇮🇳
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<br/>
+
+**⚡ Quick Glance**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark" />
+
 </div>
 
 <br/>
@@ -156,12 +202,12 @@ Location:  India 🇮🇳
 <div align="center">
 <svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="g5" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0D0000"/>
       <stop offset="50%" stop-color="#FF0000"/>
       <stop offset="100%" stop-color="#0D0000"/>
     </linearGradient>
-    <filter id="glow4" x="-20%" y="-300%" width="140%" height="700%">
+    <filter id="glow5" x="-20%" y="-300%" width="140%" height="700%">
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -169,7 +215,7 @@ Location:  India 🇮🇳
       </feMerge>
     </filter>
   </defs>
-  <rect width="1000" height="6" rx="3" fill="url(#g4)" filter="url(#glow4)"/>
+  <rect width="1000" height="6" rx="3" fill="url(#g5)" filter="url(#glow5)"/>
 </svg>
 </div>
 
@@ -239,12 +285,12 @@ A growing community built to help students and developers learn, collaborate, an
 <div align="center">
 <svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="g5" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="g5b" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0D0000"/>
       <stop offset="50%" stop-color="#FF0000"/>
       <stop offset="100%" stop-color="#0D0000"/>
     </linearGradient>
-    <filter id="glow5" x="-20%" y="-300%" width="140%" height="700%">
+    <filter id="glow5b" x="-20%" y="-300%" width="140%" height="700%">
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -252,7 +298,74 @@ A growing community built to help students and developers learn, collaborate, an
       </feMerge>
     </filter>
   </defs>
-  <rect width="1000" height="6" rx="3" fill="url(#g5)" filter="url(#glow5)"/>
+  <rect width="1000" height="6" rx="3" fill="url(#g5b)" filter="url(#glow5b)"/>
+</svg>
+</div>
+
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; CURRENTLY WORKING ON &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🆘 RescueIQ**  
+Polishing the emergency response platform — real-time coordination features and UX refinements in progress.
+
+![In Progress](https://img.shields.io/badge/Status-In_Progress-FF0000?style=flat-square&labelColor=0D0000)
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 TechEra Community**  
+Growing the learning hub — onboarding members, planning sessions, building structure for collaboration.
+
+![Active](https://img.shields.io/badge/Status-Active-FF0000?style=flat-square&labelColor=0D0000)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💻 Full Stack Development**  
+Deepening MERN stack skills — React, Node.js, Express, MongoDB — through real builds, not just tutorials.
+
+![Learning](https://img.shields.io/badge/Status-Learning-FF0000?style=flat-square&labelColor=0D0000)
+
+</td>
+<td width="50%" valign="top">
+
+**🌍 Open Source Contributions**  
+Looking for meaningful issues to contribute to and collaborating with other developers in the open.
+
+![Exploring](https://img.shields.io/badge/Status-Exploring-FF0000?style=flat-square&labelColor=0D0000)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow6" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g6)" filter="url(#glow6)"/>
 </svg>
 </div>
 
@@ -280,12 +393,12 @@ A growing community built to help students and developers learn, collaborate, an
 <div align="center">
 <svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="g6b" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0D0000"/>
       <stop offset="50%" stop-color="#FF0000"/>
       <stop offset="100%" stop-color="#0D0000"/>
     </linearGradient>
-    <filter id="glow6" x="-20%" y="-300%" width="140%" height="700%">
+    <filter id="glow6b" x="-20%" y="-300%" width="140%" height="700%">
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -293,7 +406,41 @@ A growing community built to help students and developers learn, collaborate, an
       </feMerge>
     </filter>
   </defs>
-  <rect width="1000" height="6" rx="3" fill="url(#g6)" filter="url(#glow6)"/>
+  <rect width="1000" height="6" rx="3" fill="url(#g6b)" filter="url(#glow6b)"/>
+</svg>
+</div>
+
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; GITHUB TROPHIES &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adityachoubey26&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g7" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow7" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g7)" filter="url(#glow7)"/>
 </svg>
 </div>
 
@@ -323,12 +470,12 @@ A growing community built to help students and developers learn, collaborate, an
 <div align="center">
 <svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="g7" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="g7b" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0D0000"/>
       <stop offset="50%" stop-color="#FF0000"/>
       <stop offset="100%" stop-color="#0D0000"/>
     </linearGradient>
-    <filter id="glow7" x="-20%" y="-300%" width="140%" height="700%">
+    <filter id="glow7b" x="-20%" y="-300%" width="140%" height="700%">
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -336,7 +483,41 @@ A growing community built to help students and developers learn, collaborate, an
       </feMerge>
     </filter>
   </defs>
-  <rect width="1000" height="6" rx="3" fill="url(#g7)" filter="url(#glow7)"/>
+  <rect width="1000" height="6" rx="3" fill="url(#g7b)" filter="url(#glow7b)"/>
+</svg>
+</div>
+
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; GITHUB METRICS &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/Adityachoubey26?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g8" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow8" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g8)" filter="url(#glow8)"/>
 </svg>
 </div>
 
@@ -356,3 +537,89 @@ A growing community built to help students and developers learn, collaborate, an
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityachoubey26&theme=github_dark" width="49%"/>
 </p>
 
+<br/>
+
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g9" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow9" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g9)" filter="url(#glow9)"/>
+</svg>
+</div>
+
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; DEVELOPER QUOTE &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g10" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow10" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g10)" filter="url(#glow10)"/>
+</svg>
+</div>
+
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; CONNECT WITH ME &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0000"/>
+</a>
+<a href="https://github.com/Adityachoubey26" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0000"/>
+</a>
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0000"/>
+</a>
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D0000"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0000,50:FF0000,100:0D0000&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70"/>
+
+</div>
