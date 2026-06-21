@@ -58,14 +58,18 @@ Location:  India 🇮🇳
 </tr>
 </table>
 
-<div align="center">
+<table align="center" width="90%">
+<tr>
+<td>
 
 🎯 **Currently Focused On:** Mastering Full Stack Development & Building Real-World Products  
 🌱 **Currently Learning:** Advanced React, Backend Architecture & System Design  
 🤝 **Open To:** Software Internships, Open Source Collaborations & Freelance Design Work  
 ⚡ **Fun Fact:** I design as much as I code — pixels and code are my playground!
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -410,25 +414,6 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 </svg>
 </div>
 
-<h2 align="center">
-<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
-&nbsp; GITHUB TROPHIES &nbsp;
-<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
-</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adityachoubey26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityachoubey26&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="49%" />
-
-</div>
-
-> 💡 **Note:** The trophy widget (`github-profile-trophy.vercel.app`) is currently experiencing service-wide outages due to hosting/API limits on the maintainer's end — affects all users, not specific to this profile. Swapped to a stable rank + streak card combo above. If the trophy service stabilizes later, you can re-add it with:
-> ```
-> <img src="https://github-profile-trophy.vercel.app/?username=Adityachoubey26&theme=radical&row=1&column=7" width="100%"/>
-> ```
-
-<br/>
 
 <div align="center">
 <svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
