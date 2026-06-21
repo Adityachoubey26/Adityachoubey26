@@ -97,13 +97,13 @@ Location:  India 🇮🇳
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,100:FF0000&height=55&width=420&text=🌱%20Building%20TechEra%20Community&fontSize=15&fontColor=FFFFFF&fontAlignY=55&animation=twinkling"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,100:FF0000&height=55&width=420&text=⚡%20Learning%20MERN%20Stack&fontSize=15&fontColor=FFFFFF&fontAlignY=55&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:8B0000,100:FF0000&height=55&width=420&text=🌱%20Building%20TechEra%20Community&fontSize=15&fontColor=FFFFFF&fontAlignY=55&animation=twinkling&desc=&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:8B0000,100:FF0000&height=55&width=420&text=⚡%20Learning%20MERN%20Stack&fontSize=15&fontColor=FFFFFF&fontAlignY=55&animation=twinkling&desc=&section=header"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,100:FF0000&height=55&width=420&text=🎯%20Preparing%20for%20Internships&fontSize=15&fontColor=FFFFFF&fontAlignY=55&animation=twinkling"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,100:FF0000&height=55&width=420&text=🚀%20Building%20Real-World%20Projects&fontSize=15&fontColor=FFFFFF&fontAlignY=55&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:8B0000,100:FF0000&height=55&width=420&text=🎯%20Preparing%20for%20Internships&fontSize=15&fontColor=FFFFFF&fontAlignY=55&animation=twinkling&desc=&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:8B0000,100:FF0000&height=55&width=420&text=🚀%20Building%20Real-World%20Projects&fontSize=15&fontColor=FFFFFF&fontAlignY=55&animation=twinkling&desc=&section=header"/>
 
 </div>
 
@@ -418,7 +418,7 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adityachoubey26&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Adityachoubey26&theme=radical&row=1&column=7&margin-w=10&margin-h=10" width="100%"/>
 
 </div>
 
@@ -601,17 +601,20 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+<a href="https://www.linkedin.com/in/aditya-c-366b90305/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0000"/>
 </a>
 <a href="https://github.com/Adityachoubey26" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0000"/>
 </a>
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="mailto:aditya.choubey.soe@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0000"/>
 </a>
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://portfolio-henna-phi-41.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D0000"/>
+</a>
+<a href="https://x.com/ChoubeyIx" target="_blank">
+  <img src="https://img.shields.io/badge/X-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D0000"/>
 </a>
 
 </div>
