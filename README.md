@@ -418,9 +418,15 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adityachoubey26&theme=radical&row=1&column=7&margin-w=10&margin-h=10" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Adityachoubey26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityachoubey26&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="49%" />
 
 </div>
+
+> 💡 **Note:** The trophy widget (`github-profile-trophy.vercel.app`) is currently experiencing service-wide outages due to hosting/API limits on the maintainer's end — affects all users, not specific to this profile. Swapped to a stable rank + streak card combo above. If the trophy service stabilizes later, you can re-add it with:
+> ```
+> <img src="https://github-profile-trophy.vercel.app/?username=Adityachoubey26&theme=radical&row=1&column=7" width="100%"/>
+> ```
 
 <br/>
 
