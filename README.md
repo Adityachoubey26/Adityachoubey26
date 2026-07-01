@@ -464,8 +464,7 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityachoubey26&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="60%" />
-
+<img src="https://streak-stats.demolab.com/?user=Adityachoubey26&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="60%" />
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachoubey26&theme=redical&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" width="90%" />
