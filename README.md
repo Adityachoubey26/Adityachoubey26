@@ -461,7 +461,7 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 <tr>
 <td align="center">
 
-[<img src="https://streak-stats.demolab.com/?user=Adityachoubey26&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="100%" />](https://streak-stats.demolab.com/?user=Adityachoubey26&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&cache_seconds=0)
+https://streak-stats.demolab.com?user=Adityachoubey26&theme=radical&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000
 
 </td>
 </tr>
