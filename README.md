@@ -430,45 +430,47 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 </svg>
 </div>
 
+<!-- ================= GITHUB ANALYTICS — DASHBOARD STYLE ================= -->
 
 <div align="center">
-<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g7" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0D0000"/>
-      <stop offset="50%" stop-color="#FF0000"/>
-      <stop offset="100%" stop-color="#0D0000"/>
-    </linearGradient>
-    <filter id="glow7" x="-20%" y="-300%" width="140%" height="700%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <rect width="1000" height="6" rx="3" fill="url(#g7)" filter="url(#glow7)"/>
-</svg>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:8B0000,100:FF0000&height=70&width=1000&text=📊%20GitHub%20Analytics%20Dashboard%20📊&fontSize=24&fontColor=FFFFFF&fontAlignY=55&animation=twinkling&desc=&section=header"/>
+
 </div>
-
-<h2 align="center">
-<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
-&nbsp; GITHUB ANALYTICS &nbsp;
-<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
-</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adityachoubey26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachoubey26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" width="48%" />
 
 <br/>
 
-[<img src="https://streak-stats.demolab.com/?user=Adityachoubey26&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="60%" />](https://streak-stats.demolab.com/?user=Adityachoubey26&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&cache_seconds=0)
-<br/><br/>
+<table align="center" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachoubey26&theme=redical&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adityachoubey26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true" width="100%" />
 
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachoubey26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table align="center" width="90%">
+<tr>
+<td align="center">
+
+[<img src="https://streak-stats.demolab.com/?user=Adityachoubey26&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="100%" />](https://streak-stats.demolab.com/?user=Adityachoubey26&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&cache_seconds=0)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachoubey26&theme=redical&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" width="95%" />
 </div>
 
 <br/>
