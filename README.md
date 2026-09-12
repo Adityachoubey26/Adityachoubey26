@@ -444,12 +444,11 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adityachoubey26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true" width="100%" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adityachoubey26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true" width="100%" />
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachoubey26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adityachoubey26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" width="100%" />
 
 </td>
 </tr>
@@ -461,7 +460,7 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 <tr>
 <td align="center">
 
-<img src="https://streak-stats.demolab.com?user=Adityachoubey26&theme=radical&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityachoubey26&theme=radical&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true" width="95%" />
 </td>
 </tr>
 </table>
