@@ -444,11 +444,11 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adityachoubey26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true" width="100%" />
+<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%" alt="GitHub Stats" />
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adityachoubey26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" width="100%" />
+<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="100%" alt="Top Languages" />
 
 </td>
 </tr>
@@ -460,7 +460,7 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 <tr>
 <td align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityachoubey26&theme=radical&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true" width="95%" />
+<img src="https://streak-stats.demolab.com/?user=Adityachoubey26&theme=radical&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true" width="95%" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -468,7 +468,7 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachoubey26&theme=redical&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" width="95%" />
+<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/output/github-snake-dark.svg" width="95%" alt="Contribution Snake" />
 </div>
 
 <br/>
@@ -501,7 +501,7 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/Adityachoubey26?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" width="100%"/>
+<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub Profile Details"/>
 
 </div>
 
@@ -530,17 +530,8 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 <h2 align="center">📊 GITHUB PROFILE STATS</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityachoubey26&theme=github_dark" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityachoubey26&theme=github_dark" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adityachoubey26&theme=github_dark&utcOffset=5.5" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityachoubey26&theme=github_dark" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityachoubey26&theme=github_dark" width="49%"/>
+  <img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive Time"/>
+  <img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories per Language"/>
 </p>
 
 <br/>
