@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Adityachoubey26/Adityachoubey26/blob/main/linkdin%20banner.png?raw=true" width="100%" alt="Aditya Choubey Banner"/>
-
+<img src="https://github.com/Adityachoubey26/Adityachoubey26/blob/main/github-banner.png?raw=true" width="100%" alt="Aditya Choubey GitHub Banner"/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+There%2C+I'm+Aditya+Choubey;Full+Stack+Developer+%7C+Graphic+Designer;Founder+%40+GraphEra+%26+TechEra;Building+Impactful+Digital+Products" alt="Typing SVG" />
