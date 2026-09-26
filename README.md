@@ -470,6 +470,44 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 <img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/output/github-snake-dark.svg" width="95%" alt="Contribution Snake" />
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/output/github-snake-dark.svg" width="95%" alt="Contribution Snake" />
+</div>
+
+<br/>
+
+<div align="center">
+<svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g7c" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0000"/>
+      <stop offset="50%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#0D0000"/>
+    </linearGradient>
+    <filter id="glow7c" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g7c)" filter="url(#glow7c)"/>
+</svg>
+</div>
+
+<h2 align="center">
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+&nbsp; 3D CONTRIBUTION CALENDAR &nbsp;
+<sub><img src="https://img.shields.io/badge/-◆-FF0000?style=flat-square&labelColor=000000"/></sub>
+</h2>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/output/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Calendar" />
+</div>
+
+<br/>
+
 <br/>
 
 <div align="center">
