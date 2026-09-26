@@ -1,0 +1,31 @@
+name: 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: output
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Adityachoubey26
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          branch: output
+          commit_message: "Update 3D contribution calendar"
+          file_pattern: "profile-3d-contrib/*.svg"
