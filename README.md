@@ -470,10 +470,6 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 <img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/output/github-snake-dark.svg" width="95%" alt="Contribution Snake" />
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/output/github-snake-dark.svg" width="95%" alt="Contribution Snake" />
-</div>
-
 <br/>
 
 <div align="center">
