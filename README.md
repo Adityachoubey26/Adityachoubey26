@@ -455,6 +455,12 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 
 <br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Adityachoubey26/Adityachoubey26/main/language-radar.svg" width="70%" alt="Language Radar"/>
+</div>
+
+<br/>
+
 <table align="center" width="90%">
 <tr>
 <td align="center">
