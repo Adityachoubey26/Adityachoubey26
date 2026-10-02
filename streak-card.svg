@@ -9,7 +9,7 @@
   <line x1="233" y1="30" x2="233" y2="170" stroke="#332020" stroke-width="1.5"/>
   <line x1="466" y1="30" x2="466" y2="170" stroke="#332020" stroke-width="1.5"/>
 
-  <text x="116" y="70" font-family="Segoe UI, sans-serif" font-size="34" font-weight="bold" fill="#FF3B6B" text-anchor="middle">350</text>
+  <text x="116" y="70" font-family="Segoe UI, sans-serif" font-size="34" font-weight="bold" fill="#FF3B6B" text-anchor="middle">352</text>
   <text x="116" y="98" font-family="Segoe UI, sans-serif" font-size="14" fill="#FF3B6B" text-anchor="middle">Total Contributions</text>
   <text x="116" y="120" font-family="Segoe UI, sans-serif" font-size="12" fill="#9aa4b2" text-anchor="middle">All-time</text>
 
