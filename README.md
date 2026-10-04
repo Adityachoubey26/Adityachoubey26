@@ -458,8 +458,7 @@ Looking for meaningful issues to contribute to and collaborating with other deve
 <table align="center" width="90%">
 <tr>
 <td align="center">
-<img src="https://streak-stats.demolab.com/?user=Adityachoubey26&theme=radical&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true&timezone=Asia/Kolkata&cache_seconds=300" width="95%" alt="GitHub Streak" />
-</tr>
+<img src="https://streak-stats.demolab.com/?user=Adityachoubey26&theme=radical&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true&timezone=Asia/Kolkata&cache_seconds=300&v=20261004" width="95%" alt="GitHub Streak" /></tr>
 </table>
 
 <br/>
